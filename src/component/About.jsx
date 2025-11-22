@@ -4,9 +4,9 @@ import './About.css';
 const About = () => (
   <section className="about-section">
     <h1>About Us</h1>
-    <h2>🧠 Softcode Company </h2>
+    <h2>🧠 KidoTech Company </h2>
     <p >
-      Softcode is a forward-thinking technology company based in Nigeria,<br/>
+      KidoTech is a forward-thinking technology company based in Nigeria,<br/>
       dedicated to empowering businesses through intelligent software solutions.<br/>
       We specialize in AI development, scalable web and mobile applications, <br/>
       and strategic digital consulting—helping brands transform ideas into impactful digital experiences.
@@ -20,7 +20,7 @@ const About = () => (
 
     </ul>
     <p>
-      At Softcode, we believe innovation should be accessible, intuitive, and <br/>
+      At KidoTech, we believe innovation should be accessible, intuitive, and <br/>
       results-driven. Whether you're a startup seeking digital traction or <br/>
       an enterprise ready to scale, our team blends technical expertise with creative <br/>
       insight to deliver solutions that move your business forward.

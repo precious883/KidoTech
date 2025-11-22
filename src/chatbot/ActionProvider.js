@@ -15,7 +15,7 @@ class ActionProvider {
 
   handleContact = () => {
     const message = this.createChatBotMessage(
-      "You can reach us at hello@softcode.com or call +234-XXX-XXX-XXXX."
+      "You can reach us at softcoded99@gmail.com or call +234-816-804-3221."
     );
     this.setState((prev) => ({ ...prev, messages: [...prev.messages, message] }));
   };
